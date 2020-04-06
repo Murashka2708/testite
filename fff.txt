@@ -1,3 +1,4 @@
-uzhfuhduihgiudzhg
+5
+
 cout<<"one";
 cout<<"two";
