@@ -4,3 +4,5 @@ cout<<"one";
 cout<<"two";
 555
 1254
+
+cout<<"good";
